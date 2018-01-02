@@ -42,7 +42,7 @@ var config = {
 			header: "calendar",
 			position: "top_left",
 			config: {
-				excludedEvents: ['AL', 'Team Meeting', 'TRIWA'],
+				excludedEvents: ['AL', 'Team Meeting'],
 				maximumEntries: 7,
 				calendars: [
 					{
@@ -123,7 +123,7 @@ var config = {
       module: 'MMM-homeassistant-sensors',
       position: 'bottom_right',
       config: {
-        url: 'https://eugenelai.duckdns.org/api/states?api_password=x',
+        url: 'https://eugenelai.duckdns.org/api/states?api_password=xxxxxx',
         prettyName : 'true',
         stripName: 'true',
         values: ["sensor.cpu_temperature", "sensor.living_room_temperature", "sensor.living_room_humidity", "sensor.bedroom_temperature", "sensor.bedroom_humidity"]
