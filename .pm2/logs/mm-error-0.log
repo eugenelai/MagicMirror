@@ -1,0 +1,140 @@
+[812:0129/081702:FATAL:bus.cc(1204)] D-Bus connection was disconnected. Aborting.
+#0 0x0000012a3bb0 <unknown>
+#1 0x0000012b4406 <unknown>
+#2 0x00000120fd0a <unknown>
+
+Fontconfig warning: ignoring UTF-8: not a valid region tag
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem { error: 
+   { type: 'server_error',
+     translation_key: 'api_error_unknown',
+     message: 'An unknown server error occurred' } } 500
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem { error: 
+   { type: 'server_error',
+     translation_key: 'api_error_unknown',
+     message: 'An unknown server error occurred' } } 500
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem { error: 
+   { type: 'server_error',
+     translation_key: 'api_error_unknown',
+     message: 'An unknown server error occurred' } } 500
+error: cannot lock ref 'refs/remotes/origin/develop': is at 1d0baccffc6719df2d3afba55844e18671b3c6ab but expected edd604305984f5d37fa4fb9ef4e15f96ae5763ef
+From https://github.com/MichMich/MagicMirror
+ ! edd6043..1d0bacc  develop    -> origin/develop  (unable to update local ref)
+
+error: cannot lock ref 'refs/remotes/origin/develop': is at 3b40f393d819341a92a176b5cc0be3000ea82c46 but expected 1d0baccffc6719df2d3afba55844e18671b3c6ab
+From https://github.com/MichMich/MagicMirror
+ ! 1d0bacc..3b40f39  develop    -> origin/develop  (unable to update local ref)
+
+error: cannot lock ref 'refs/remotes/origin/develop': is at aa11e6d62e8861badd9fa4f6ad8df887635ddf07 but expected 3b40f393d819341a92a176b5cc0be3000ea82c46
+From https://github.com/MichMich/MagicMirror
+ ! 3b40f39..aa11e6d  develop    -> origin/develop  (unable to update local ref)
+
+error: cannot lock ref 'refs/remotes/origin/develop': is at aa11e6d62e8861badd9fa4f6ad8df887635ddf07 but expected 3b40f393d819341a92a176b5cc0be3000ea82c46
+From https://github.com/MichMich/MagicMirror
+ ! 3b40f39..aa11e6d  develop    -> origin/develop  (unable to update local ref)
+
+fatal: unable to access 'https://github.com/paviro/MMM-PIR-Sensor.git/': Empty reply from server
+
+error: cannot lock ref 'refs/remotes/origin/master': is at 5213bef8c66b615e37735f8938d998f73dfaa2e8 but expected 4f01f5df310c07d450a4a3c2a20dbb6a34ca9c2b
+From https://github.com/funsocietyirc/MMM-Wunderlist-Enhanced
+ ! 4f01f5d..5213bef  master     -> origin/master  (unable to update local ref)
+
+error: cannot lock ref 'refs/remotes/origin/develop': is at 8343db44dbda1bda12f6e464d33dfc937fdecd38 but expected aa11e6d62e8861badd9fa4f6ad8df887635ddf07
+From https://github.com/MichMich/MagicMirror
+ ! aa11e6d..8343db4  develop    -> origin/develop  (unable to update local ref)
+
+error: cannot lock ref 'refs/remotes/origin/develop': is at 20eec53b14eb398421bac5339d82e9718099ed37 but expected 8343db44dbda1bda12f6e464d33dfc937fdecd38
+From https://github.com/MichMich/MagicMirror
+ ! 8343db4..20eec53  develop    -> origin/develop  (unable to update local ref)
+
+fatal: unable to access 'https://github.com/BenRoe/MMM-SystemStats/': Empty reply from server
+
+fatal: unable to access 'https://github.com/paviro/MMM-PIR-Sensor.git/': Empty reply from server
+
+error: cannot lock ref 'refs/remotes/origin/develop': is at b50d31ffe2dff1d54e29de988706af50b26b9c1f but expected 20eec53b14eb398421bac5339d82e9718099ed37
+From https://github.com/MichMich/MagicMirror
+ ! 20eec53..b50d31f  develop    -> origin/develop  (unable to update local ref)
+
+error: cannot lock ref 'refs/remotes/origin/develop': is at b50d31ffe2dff1d54e29de988706af50b26b9c1f but expected 20eec53b14eb398421bac5339d82e9718099ed37
+From https://github.com/MichMich/MagicMirror
+ ! 20eec53..b50d31f  develop    -> origin/develop  (unable to update local ref)
+
+fatal: unable to access 'https://github.com/tkoeberl/MMM-homeassistant-sensors.git/': Could not resolve host: github.com
+
+Fontconfig warning: ignoring UTF-8: not a valid region tag
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem 404
+there was a Wunderlist problem { error: 
+   { type: 'server_error',
+     translation_key: 'api_error_unknown',
+     message: 'An unknown server error occurred' } } 500
+there was a Wunderlist problem { error: 
+   { type: 'server_error',
+     translation_key: 'api_error_unknown',
+     message: 'An unknown server error occurred' } } 500
+there was a Wunderlist problem { error: 
+   { type: 'server_error',
+     translation_key: 'api_error_unknown',
+     message: 'An unknown server error occurred' } } 500
+fatal: unable to access 'https://github.com/BenRoe/MMM-SystemStats/': Empty reply from server
+
+fatal: unable to access 'https://github.com/funsocietyirc/MMM-Wunderlist-Enhanced.git/': Empty reply from server
+
+fatal: unable to access 'https://github.com/tkoeberl/MMM-homeassistant-sensors.git/': Operation timed out after 300029 milliseconds with 0 out of 0 bytes received
+
+fatal: unable to access 'https://github.com/paviro/MMM-PIR-Sensor.git/': Operation timed out after 300001 milliseconds with 0 out of 0 bytes received
+
+fatal: unable to access 'https://github.com/MichMich/MagicMirror/': Operation timed out after 300041 milliseconds with 0 out of 0 bytes received
+

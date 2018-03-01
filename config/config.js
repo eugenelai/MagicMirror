@@ -15,7 +15,7 @@ var config = {
 	                      // - "", "0.0.0.0", "::" to listen on any interface
 	                      // Default, when address config is left out, is "localhost"
 	port: 8080,
-	ipWhitelist: ["127.0.0.1", "::ffff:127.0.0.1", "::1", "61.93.255.170"], // Set [] to allow all IP addresses
+	ipWhitelist: ["127.0.0.1", "::ffff:127.0.0.1", "::1", "61.93.255.170", "10.0.1.23", "210.6.86.209"], // Set [] to allow all IP addresses
 	                                                       // or add a specific IPv4 of 192.168.1.5 :
 	                                                       // ["127.0.0.1", "::ffff:127.0.0.1", "::1", "::ffff:192.168.1.5"],
 	                                                       // or IPv4 range of 192.168.3.0 --> 192.168.3.15 use CIDR format :
@@ -105,7 +105,8 @@ var config = {
   			// See 'Configuration options' for more information.
                           accessToken: "6b7e988ae9366faba5248e9cec23b0c5e66e0a4bccbbed24402d1053c0e6",  //example token
                           clientID: "f64e4c4080614ab3aab0",   //example clientID
-                          lists: ["To Buy","To Do", "Projects"]
+                          lists: ["To Buy","To Do", "Projects"],
+													interval: 60
   		}
     },
     {
@@ -123,7 +124,7 @@ var config = {
       module: 'MMM-homeassistant-sensors',
       position: 'bottom_right',
       config: {
-        url: 'https://eugenelai.duckdns.org/api/states?api_password=x',
+        url: 'https://eugenelai.duckdns.org/api/states?api_password=xxx',
         prettyName : 'true',
         stripName: 'true',
         values: ["sensor.cpu_temperature", "sensor.living_room_temperature", "sensor.living_room_humidity", "sensor.bedroom_temperature", "sensor.bedroom_humidity"]

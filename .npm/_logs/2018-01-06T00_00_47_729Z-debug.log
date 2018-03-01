@@ -1,0 +1,34 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'start' ]
+2 info using npm@5.5.1
+3 info using node@v9.3.0
+4 verbose run-script [ 'prestart', 'start', 'poststart' ]
+5 info lifecycle magicmirror@2.2.2~prestart: magicmirror@2.2.2
+6 info lifecycle magicmirror@2.2.2~start: magicmirror@2.2.2
+7 verbose lifecycle magicmirror@2.2.2~start: unsafe-perm in lifecycle true
+8 verbose lifecycle magicmirror@2.2.2~start: PATH: /usr/lib/node_modules/npm/bin/node-gyp-bin:/home/pi/MagicMirror/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+9 verbose lifecycle magicmirror@2.2.2~start: CWD: /home/pi/MagicMirror
+10 silly lifecycle magicmirror@2.2.2~start: Args: [ '-c', 'sh run-start.sh' ]
+11 silly lifecycle magicmirror@2.2.2~start: Returned: code: 1  signal: null
+12 info lifecycle magicmirror@2.2.2~start: Failed to exec start script
+13 verbose stack Error: magicmirror@2.2.2 start: `sh run-start.sh`
+13 verbose stack Exit status 1
+13 verbose stack     at EventEmitter.<anonymous> (/usr/lib/node_modules/npm/node_modules/npm-lifecycle/index.js:280:16)
+13 verbose stack     at EventEmitter.emit (events.js:159:13)
+13 verbose stack     at ChildProcess.<anonymous> (/usr/lib/node_modules/npm/node_modules/npm-lifecycle/lib/spawn.js:55:14)
+13 verbose stack     at ChildProcess.emit (events.js:159:13)
+13 verbose stack     at maybeClose (internal/child_process.js:943:16)
+13 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:220:5)
+14 verbose pkgid magicmirror@2.2.2
+15 verbose cwd /home/pi/MagicMirror
+16 verbose Linux 4.9.73-v7+
+17 verbose argv "/usr/bin/node" "/usr/bin/npm" "start"
+18 verbose node v9.3.0
+19 verbose npm  v5.5.1
+20 error code ELIFECYCLE
+21 error errno 1
+22 error magicmirror@2.2.2 start: `sh run-start.sh`
+22 error Exit status 1
+23 error Failed at the magicmirror@2.2.2 start script.
+23 error This is probably not a problem with npm. There is likely additional logging output above.
+24 verbose exit [ 1, true ]
